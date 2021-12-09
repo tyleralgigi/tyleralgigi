@@ -9,7 +9,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
--  **Working On :** AI with Python
+-  **Working On :** React Native Senior Design Project
 -  **Learning :** MERNG Stack 
 -  **Hobbies :**  Fishing, Video Games, Working Out
 -  **Ask me about :** Currently working at FAU Help Desk doing User Support Services. Florida born and raised! Seeking opportunities in AI.
