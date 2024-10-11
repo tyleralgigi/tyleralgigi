@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, I'm Tyler Algigi </h1>
 
-<h3 align="center">  Techie | Computer Science Student </h3> <br>
+<h3 align="center">  Software Developer | Computer Science Grad </h3> <br>
 
 <p align="center"> 
 <a href="https://www.linkedin.com/in/tyler-algigi/"><img alt="LinkedIn" src="https://img.shields.io/badge/-TylerAlgigi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tyler-algigi/"></a>
@@ -9,10 +9,9 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
--  **Working On :** React Native Senior Design Project
--  **Learning :** MERNG Stack 
+-  **Working On :** Flutter App
+-  **Learning :** Cloud technologies  
 -  **Hobbies :**  Fishing, Video Games, Working Out
--  **Ask me about :** Currently working at FAU Help Desk doing User Support Services. Florida born and raised! Seeking opportunities in AI.
 -  **Pronouns :** He/Him/His 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
