@@ -4,7 +4,6 @@
 
 <p align="center"> 
 <a href="https://www.linkedin.com/in/tyler-algigi/"><img alt="LinkedIn" src="https://img.shields.io/badge/-TylerAlgigi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tyler-algigi/"></a>
-<a href="https://twitter.com/TylerAlgigi"><img alt="Twitter" src="https://img.shields.io/badge/-TylerAlgigi-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/tyler-algigi"></a>
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
