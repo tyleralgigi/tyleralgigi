@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🤓 About Me:
 I'm a developer who enjoys building clean, efficient, and useful stuff that people enjoy using.<br>I work across the stack and have solid experience with Python and data analytics—now I'm taking things further by diving into Go and sharpening my backend skills.<br>When I'm not coding, I'm probably gaming, playing basketball, or brainstorming my next project.
 
 ## 🌐 Socials:
